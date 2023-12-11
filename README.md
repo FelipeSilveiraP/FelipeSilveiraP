@@ -3,7 +3,7 @@
 - 🗓️ Tenho 20 anos de idade
 - 🦾 Sou Técnico Mecatrônico
 - 🦾 → 👩‍💻 Passo por Transição de Carreira
-- 👩‍💻 Desejo trabalahar como DEV Full Stack
+- 👩‍💻 Desejo trabalhar como DEV Full Stack
 - 🌱 Aprendendo as linguages Javascript e Typescript
 - 📫 Contact me: <br>Telephone: +55 (16) 99215-4756 <br>Email: felipe.silveirap47@gmail.com<br> 
  
