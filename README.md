@@ -5,7 +5,7 @@
 - 🦾 → 👩‍💻 Passo por Transição de Carreira
 - 👩‍💻 Desejo trabalhar como DEV Full Stack
 - 🌱 Aprendendo as linguagens Javascript e Typescript
-- 📫 Contact me: <br>Telephone: +55 (16) 99215-4756 <br>Email: felipe.silveirap47@gmail.com<br> 
+- 📫 Contact me: Email: felipe.silveirap47@gmail.com<br> 
  
 <div> 
   <a href = "mailto:felipe.silveirap47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
