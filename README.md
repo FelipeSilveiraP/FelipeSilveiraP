@@ -24,16 +24,11 @@
  ##
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilveiraP&show_icons=true&theme=algolia)
-  <-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraP&layout=compact) -->
-
-
-
-
+ 
 <!--   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraP&layout=compact)
   <img align="center" alt="Felps-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felps-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felps-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> --!>
 
 </div>
-
-
