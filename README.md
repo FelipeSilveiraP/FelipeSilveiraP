@@ -4,7 +4,7 @@
 - 🦾 Sou Técnico Mecatrônico
 - 🦾 → 👩‍💻 Passo por Transição de Carreira
 - 👩‍💻 Desejo trabalhar como DEV Full Stack
-- 🌱 Aprendendo as linguagens Javascript e Typescript
+- 🌱 Aprendendo as linguagens Javascript, Python
 - 📫 Contact me: Email: felipe.silveirap47@gmail.com<br> 
  
 <div> 
