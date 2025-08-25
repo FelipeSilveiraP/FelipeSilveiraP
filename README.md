@@ -1,6 +1,23 @@
 ### Olá! Eu sou o Felipe Silveira Pessôa
 
-Chaveiro profissional com experiência em serviços técnicos de segurança e abertura de fechaduras. Atualmente, em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento Web, Banco de Dados, Suporte Técnico e Teste de Software. Estudante de graduação em Análise e Desenvolvimento de Sistemas, com conhecimento em VBA Excel, Python e JavaScript. Busco aplicar minhas habilidades técnicas e experiência prática em projetos de tecnologia e automação.
+<p align="center">
+  <img src="URL_DA_SUA_FOTO" width="150" />
+</p>
+
+<h1 align="center">Olá 👋, sou o Felipe Silva</h1>
+
+<p align="center">
+Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvimento de Sistemas, com experiência em Desenvolvimento Web, Banco de Dados, Suporte Técnico e Teste de Software. Conhecimento em VBA Excel, Python e JavaScript. Busco aplicar minhas habilidades técnicas em projetos de tecnologia e automação.
+</p>
+
+<p align="center">
+<a href="https://github.com/seu-usuario">GitHub Stats</a> | <a href="#">LinkedIn</a>
+</p>
+
+<h2 align="center">Habilidades 💻</h2>
+<p align="center">
+VBA Excel • Python • JavaScript • HTML • CSS • Banco de Dados
+</p>
 - 📫 Contact me: Email: felipe.silveirap47@gmail.com<br> 
  
 <div> 
