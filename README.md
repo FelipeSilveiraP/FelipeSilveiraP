@@ -12,17 +12,12 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
   <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-<h2 align="center">Habilidades 💻</h2>
+<hr>
+<h2>Habilidades 💻</h2>
 <p align="center">
 VBA Excel • Python • JavaScript • HTML • CSS • Banco de Dados
 </p>
-- 📫 Contact me: Email: felipe.silveirap47@gmail.com<br> 
- 
-<div> 
-  <a href = "mailto:felipe.silveirap47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/felipe_silveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felps-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
