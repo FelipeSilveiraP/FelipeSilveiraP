@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Felipe Silveira Pessôa
 
-<p align="center">
-  <img src="URL_DA_SUA_FOTO" width="150" />
-</p>
-
 <h1 align="center">Olá 👋, sou o Felipe Silva</h1>
 
 <p align="center">
