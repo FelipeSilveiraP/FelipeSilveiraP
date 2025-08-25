@@ -4,15 +4,13 @@
 
 <p align="center">
 Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvimento de Sistemas, com experiência em Desenvolvimento Web, Banco de Dados, Suporte Técnico e Teste de Software. Conhecimento em VBA Excel, Python e JavaScript. Busco aplicar minhas habilidades técnicas em projetos de tecnologia e automação.
-</p>
+</p><br>
 
-<p align="center">
-<div> 
+<div align ="center"> 
   <a href = "mailto:felipe.silveirap47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/felipe_silveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
-</p>
 
 <h2 align="center">Habilidades 💻</h2>
 <p align="center">
