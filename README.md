@@ -14,9 +14,13 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
 
 <hr>
 <h2>Habilidades 💻</h2>
-<p align="center">
-VBA Excel • Python • JavaScript • HTML • CSS • Banco de Dados
-</p>
+<div align ="center"> 
+  <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"target="_blank"></a>
+  <a href="https://instagram.com/felipe_silveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
+
+
 
 
 <div style="display: inline_block"><br>
