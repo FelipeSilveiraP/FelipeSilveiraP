@@ -23,16 +23,6 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
 </div><br>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felps-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felps-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felps-C++" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Felps-Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="left" alt="GIF-HACK" height="70" width="80"  src="https://static.visme.co/a9/5c/75/c2/d5b616dc353e64779f23c654218f0b78.gif" class="file-settings-image"> 
-</div>
-
- ##
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilveiraP&show_icons=true&theme=algolia)
  
 <!--   
