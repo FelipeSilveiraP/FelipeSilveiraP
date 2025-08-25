@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Silveira Pessôa
 
-- 🗓️ Tenho 20 anos de idade
-- 🦾 Sou Técnico Mecatrônico
+- 🗓️ Tenho 21 anos de idade
+- 🦾 Sou Chaveiro
 - 🦾 → 👩‍💻 Passo por Transição de Carreira
 - 👩‍💻 Desejo trabalhar como DEV Full Stack
 - 🌱 Aprendendo as linguagens Javascript, Python
