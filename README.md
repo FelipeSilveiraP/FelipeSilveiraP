@@ -15,12 +15,12 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
 <hr>
 <h2>Habilidades 💻</h2>
 <div align ="center"> 
-  <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"target="_blank"></a>
-  <a href="https://instagram.com/felipe_silveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"  style="max-width:100%;"></a> 
 </div><br>
-
-
 
 
 <div style="display: inline_block"><br>
