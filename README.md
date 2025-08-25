@@ -1,10 +1,6 @@
 ### Olá! Eu sou o Felipe Silveira Pessôa
 
-- 🗓️ Tenho 21 anos de idade
-- 🦾 Sou Chaveiro
-- 🦾 → 👩‍💻 Passo por Transição de Carreira
-- 👩‍💻 Desejo trabalhar como DEV Full Stack
-- 🌱 Aprendendo as linguagens Javascript, Python
+Chaveiro profissional com experiência em serviços técnicos de segurança e abertura de fechaduras. Atualmente, em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento Web, Banco de Dados, Suporte Técnico e Teste de Software. Estudante de graduação em Análise e Desenvolvimento de Sistemas, com conhecimento em VBA Excel, Python e JavaScript. Busco aplicar minhas habilidades técnicas e experiência prática em projetos de tecnologia e automação.
 - 📫 Contact me: Email: felipe.silveirap47@gmail.com<br> 
  
 <div> 
