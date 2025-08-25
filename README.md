@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Silveira Pessôa
 
-<h1 align="center">Olá 👋, sou o Felipe Silva</h1>
+<h1> Sobre</h1>
 
 <p align="center">
 Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvimento de Sistemas, com experiência em Desenvolvimento Web, Banco de Dados, Suporte Técnico e Teste de Software. Conhecimento em VBA Excel, Python e JavaScript. Busco aplicar minhas habilidades técnicas em projetos de tecnologia e automação.
