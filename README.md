@@ -19,7 +19,7 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width:100%;"></a> 
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width:100%;"></a> 
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"  style="max-width:100%;"></a> 
-  <a><img src="https://img.shields.io/badge/VBA_Excel-808080?style=for-the-badge&amp;logo=visual-basic&amp;logoColor=white" style="max-width:100%;"></a>
+  <a><img src="https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&amp;logo=visual-basic&amp;logoColor=white" style="max-width:100%;"></a>
 </div><br>
 
 
