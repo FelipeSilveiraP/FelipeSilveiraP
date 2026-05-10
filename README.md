@@ -21,14 +21,3 @@ Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvi
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"  style="max-width:100%;"></a> 
   <a><img src="https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&amp;logo=visual-basic&amp;logoColor=white" style="max-width:100%;"></a>
 </div><br>
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSilveiraP&show_icons=true&theme=algolia)
- 
-<!--   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSilveiraP&layout=compact)
-  <img align="center" alt="Felps-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felps-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felps-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> --!>
-
-</div>
