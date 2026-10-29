@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC Franca, com forte p
 <div align ="center"> 
   <a href = "mailto:felipe.silveirap47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/felipe_silveirap" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/felipe-silveira-pessoa-123681204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipesilveirapessoa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
 <h2>Habilidades 💻</h2>
@@ -19,5 +19,11 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC Franca, com forte p
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width:100%;"></a> 
   <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width:100%;"></a> 
   <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"  style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"  style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"  style="max-width:100%;"></a> 
+  <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"  style="max-width:100%;"></a>
+  <a><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"  style="max-width:100%;"></a>
   <a><img src="https://img.shields.io/badge/VBA_Excel-217346?style=for-the-badge&amp;logo=visual-basic&amp;logoColor=white" style="max-width:100%;"></a>
 </div><br>
