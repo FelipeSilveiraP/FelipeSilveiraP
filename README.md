@@ -3,7 +3,7 @@
 <h2> Sobre 📚</h2>
 
 <p align="center">
-Chaveiro profissional em transição para TI, estudante de Análise e Desenvolvimento de Sistemas, com experiência básica em Desenvolvimento Web. Conhecimento em C++, VBA Excel, JavaScript. e Python. Busco aplicar minhas habilidades técnicas em projetos de tecnologia e automação.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Franca, com forte perfil analítico e foco em Desenvolvimento Full-Stack. Experiência na construção de aplicações com C#, .NET, Java, Blazor, TypeScript e Bancos de Dados Relacionais (PostgreSQL, MariaDB, MySQL). Bagagem técnica prévia em Mecatrónica e hardware que agrega raciocínio lógico e visão sistémica.
 </p><br>
 
 <div align ="center"> 
